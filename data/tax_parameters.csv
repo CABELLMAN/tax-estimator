@@ -1,0 +1,16 @@
+tax_year,filing_status,label,standard_deduction,additional_standard_deduction,max_people,senior_deduction,senior_phaseout_start,senior_phaseout_rate,source_url,senior_source_url
+2024,single,Single,14600,1950,1,0,0,0,https://www.irs.gov/irb/2023-48_IRB,
+2024,married_filing_jointly,Married filing jointly,29200,1550,2,0,0,0,https://www.irs.gov/irb/2023-48_IRB,
+2024,married_filing_separately,Married filing separately,14600,1550,1,0,0,0,https://www.irs.gov/irb/2023-48_IRB,
+2024,head_of_household,Head of household,21900,1950,1,0,0,0,https://www.irs.gov/irb/2023-48_IRB,
+2024,qualifying_surviving_spouse,Qualifying surviving spouse,29200,1550,1,0,0,0,https://www.irs.gov/irb/2023-48_IRB,
+2025,single,Single,15750,2000,1,6000,75000,0.06,https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2025,married_filing_jointly,Married filing jointly,31500,1600,2,6000,150000,0.06,https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2025,married_filing_separately,Married filing separately,15750,1600,1,0,0,0,https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers,
+2025,head_of_household,Head of household,23625,2000,1,6000,75000,0.06,https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2025,qualifying_surviving_spouse,Qualifying surviving spouse,31500,1600,1,6000,75000,0.06,https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2026,single,Single,16100,2050,1,6000,75000,0.06,https://www.irs.gov/irb/2025-45_IRB,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2026,married_filing_jointly,Married filing jointly,32200,1650,2,6000,150000,0.06,https://www.irs.gov/irb/2025-45_IRB,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2026,married_filing_separately,Married filing separately,16100,1650,1,0,0,0,https://www.irs.gov/irb/2025-45_IRB,
+2026,head_of_household,Head of household,24150,2050,1,6000,75000,0.06,https://www.irs.gov/irb/2025-45_IRB,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+2026,qualifying_surviving_spouse,Qualifying surviving spouse,32200,1650,1,6000,75000,0.06,https://www.irs.gov/irb/2025-45_IRB,https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
